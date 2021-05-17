@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "validators",
+      "rootUri": "file:///Users/anmicius/.pub-cache/hosted/pub.dartlang.org/validators-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "play",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2021-05-17T05:10:10.418380Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.4"
+}

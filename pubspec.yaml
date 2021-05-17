@@ -1,0 +1,5 @@
+name: play
+environment:
+  sdk: ^2.12.4
+dependencies:
+  validators: ^3.0.0
